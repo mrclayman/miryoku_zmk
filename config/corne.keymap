@@ -6,5 +6,5 @@
 #include "../miryoku/miryoku.dtsi"
 
 &led_strip {
-    chain-length = <21>;
+    chain-length = <27>;
 };
